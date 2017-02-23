@@ -1,7 +1,2 @@
-#include 
-int main()
-{
-printf ("hola mundo");
-return 0;
-}
 
+git add * http://localhost:8080/peluqueria/
